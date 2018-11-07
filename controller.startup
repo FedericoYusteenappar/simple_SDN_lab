@@ -1,0 +1,3 @@
+ifconfig eth0 192.168.100.1/24 up
+
+ryu-manager /controller/ryu/app/l2_switch.py
